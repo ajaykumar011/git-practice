@@ -1,1 +1,4 @@
 Hello this is a new file 
+more lines
+More changes after creating a new branch
+File now okay
